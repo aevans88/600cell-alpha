@@ -1,0 +1,6 @@
+# For Python/NumPy version:
+numpy>=1.21.0
+
+# For SageMath version:
+# SageMath 9.0 or higher
+# Available at: https://www.sagemath.org/download.html
